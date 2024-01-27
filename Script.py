@@ -5,37 +5,10 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """premium : {}</b>
-* plans details
-
-* At Rs.7  -   1 day
-* At Rs.25  -   15 day
-* At Rs.40   -  1 month 
-* At Rs.80   -  2 months
-* At Rs.110  -  3 months
-* At Rs.145  -  4 months
-* At Rs.180  -  5 months
-* At Rs.210  -  6 months
-
-* Premium Plan Benefits:
-
-*  No need verify
-*  Movies (Original Prints And Theatre Prints)
-*  unlimited request for movies no limit 
-*  all Tv shows 
-*  direct files no links
-
-click to check your activ plan- /myplan
-
-* Payment methods:
-
-* UPI ID :  9528949549@ybl
-
-* (Tap to Copy) [Supports All Apps Like Google pay, Phone pay, Paytm]
-
-* Must Take a Screenshot after Payment and Send it to @baljeet_singh1114 To Activate Your Subscription
-
-* Contact: @baljeet_singh1114 for Any Doubts and Clarification
+    PREMIUM_TXT = """premium : {}</b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Kgashok04>☢ Owner Of TTBots ☢</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/TeamHMT_Bots>TT Bot Updates 👾</a></b>
+<b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
 <b>Hᴇʏ, Tʜɪs ɪs ᴀ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
