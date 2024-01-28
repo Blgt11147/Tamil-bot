@@ -28,8 +28,8 @@ async def start(client, message):
                     InlineKeyboardButton('✪ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/baljeet_singh1114"),
                     InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url=GRP_LNK)
                 ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
-                  ],[
+                    InlineKeyboardButton('✇ PREMIUM ✇', callback_data='PREMIUM')
+                ],[
                     InlineKeyboardButton('✇ PREMIUM ✇', callback_data='PREMIUM')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
