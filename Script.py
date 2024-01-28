@@ -10,7 +10,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/baljeetsingh_11147>Bot Updates 👾</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
-    PAID_TXT = """<b>Hᴇʏ {}
+    PREMIUM_TXT = """<b>Hᴇʏ {}
 1. * plans details
 
 * At Rs.7  -   1 day
