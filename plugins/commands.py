@@ -782,16 +782,6 @@ async def settings(client, message):
                     callback_data=f'setgs#is_shortlink#{settings["is_shortlink"]}#{grp_id}',
                 ),
             ],
-            [
-                InlineKeyboardButton(
-                    'premium',
-                    callback_data=f'setgs#PREMIUM_USER#{settings["PREMIUM_USER"]}#{grp_id}',
-                ),
-                InlineKeyboardButton(
-                    '✔ Oɴ' if settings["PREMIUM_USER"] else '✘ Oғғ',
-                    callback_data=f'setgs#PREMIUM_USER#{settings["PREMIUM_USER"]}#{grp_id}',
-                ),
-            ],
         ]
 
         btn = [[
