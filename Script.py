@@ -6,8 +6,8 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>: {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/baljeet_singh1114>☢ Owner Of TTBots ☢</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/baljeetsingh_11147>TT Bot Updates 👾</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/baljeet_singh1114>☢ Owner Of moviebot ☢</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/baljeetsingh_11147>Bot Updates 👾</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
