@@ -11,33 +11,33 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     PREMIUM_TXT = """<b>Hᴇʏ {}
-<b>1. * plans details
+   * plans details
 
-<b>* At Rs.7  -   1 day
-<b>* At Rs.25  -   15 day
-<b>* At Rs.40   -  1 month 
-<b>* At Rs.80   -  2 months
-<b>* At Rs.110  -  3 months
-<b>* At Rs.145  -  4 months
-<b>* At Rs.180  -  5 months
-<b>* At Rs.210  -  6 months
+   * At Rs.7  -   1 day
+   * At Rs.25  -   15 day
+   * At Rs.40   -  1 month 
+   * At Rs.80   -  2 months
+   * At Rs.110  -  3 months
+   * At Rs.145  -  4 months
+   * At Rs.180  -  5 months
+   * At Rs.210  -  6 months
 
-<b>* Premium Plan Benefits:
+   * Premium Plan Benefits:
 
-<b>*  No need verify
-<b>*  Movies (Original Prints And Theatre Prints)
-<b>*  unlimited request for movies no limit 
-<b>*  all Tv shows 
-<b>*  direct files no links
-<b>* Payment methods:
+   *  No need verify
+   *  Movies (Original Prints And Theatre Prints)
+   *  unlimited request for movies no limit 
+   *  all Tv shows 
+   *  direct files no links
+   * Payment methods:
 
-<b>* UPI ID :  9528949549@ybl
+   * UPI ID :  9528949549@ybl
 
-<b>* (Tap to Copy) [Supports All Apps Like Google pay, Phone pay, Paytm]
+   * (Tap to Copy) [Supports All Apps Like Google pay, Phone pay, Paytm]
 
-<b>* Must Take a Screenshot after Payment and Send it to @baljeet_singh1114 To Activate Your Subscription
+   * Must Take a Screenshot after Payment and Send it to @baljeet_singh1114 To Activate Your Subscription
 
-<b>* Contact: @baljeet_singh1114 for Any Doubts and Clarification>.</b>"""
+   * Contact: @baljeet_singh1114 for Any Doubts and Clarification.</code>"""
 
     SOURCE_TXT = """
 <b>Hᴇʏ, Tʜɪs ɪs ᴀ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
