@@ -36,7 +36,7 @@ auth_channel = environ.get('AUTH_CHANNEL','-1002076796104')
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
-support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1001692682311')
+support_chat_id = environ.get('SUPPORT_CHAT_ID', '0')
 reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002076796104')
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
@@ -47,7 +47,7 @@ DATABASE_URI = environ.get('DATABASE_URI', "")
 DATABASE_NAME = environ.get('DATABASE_NAME', "")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
-#stream feature - @TeamHMT_Bots
+#stream feature - @MOVIEREQUESbot
 STREAM_BIN = environ.get("STREAM_BIN", "-1002076796104") #Log channel/Bin Channel id -100xxxxxxx
 STREAM_URL = environ.get("STREAM_URL", "https://baljeetgill.onrender.com") # https://example.com/ (Your Stream Url)
 IS_STREAM = bool(STREAM_BIN and STREAM_URL)
